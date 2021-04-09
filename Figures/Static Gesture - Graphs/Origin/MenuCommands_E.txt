@@ -1,0 +1,11 @@
+[Ver]
+29
+[WksPlotMenuMRUList]
+Version = 1
+1 = 33255|Column
+2 = 33257|Bar
+3 = 33249|Line
+4 = 33250|Line + Symbol
+5 = 33290|Line Series
+6 = 33248|Scatter
+7 = 33301|3Ys Y-YY

@@ -1,0 +1,7 @@
+[Ver]
+29
+[WksPlotMenuMRUList]
+Version = 1
+1 = 33255|Column
+2 = 33249|Line
+3 = 33248|Scatter

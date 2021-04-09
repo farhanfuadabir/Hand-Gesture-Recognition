@@ -1,0 +1,81 @@
+	
+	 ____  _   _ _____ _____ _____ 
+	|  _ \| | | | ____| ____| ____|
+	| | | | | | |  _| |  _| |  _|  
+	| |_| | |_| | |___| |___| |___ 
+	|____/ \___/|_____|_____|_____|
+                               
+
+WiGlove Hand Gesture Dataset
+-----------------------------
+This dataset is associated to the research work
+titled 'Sensor-based WiFi-enabled Dataglove for 
+Real-time Hand Gesture Recognition' which is currently
+being processed for publication. 
+
+Note: Please keep the dataset confidential. 
+
+Dataset Structure
+------------------
+The Dataset is organized in 3 different directories for
+ASL Alphabet, Dynamic Gestures and Static Gestures. Each 
+directory contains a 'Dataset' sub-directory and a 
+corresponding 'Dataset Description' file.
+
+The structure is given below:
+
+WiGlove Dataset
+     |
+     |____ ASL Alphabet
+     |         |____ Dataset
+     |         |        |____ a.csv
+     |         |        |____ b.csv
+     |         |        |
+     |         |        .
+     |         |        .
+     |         |____ ASL Alphabet Dataset Description.pdf
+     |
+     |____ ASL Words
+     |         |____ Dataset
+     |                  |____ Processed
+     |                  |	 |____ ACCx.csv
+     |                  |	 |____ ACCx_raw.csv
+     |                  |	 |
+     |                  |	 .
+     |                  |	 .
+     |                  |____ Segmented
+     |                  |	 |____ bad.csv
+     |                  |	 |____ deaf.csv
+     |                  |	 |
+     |                  |	 .
+     |                  |	 .
+     |                  |____ bad.csv
+     |                  |____ deaf.csv
+     |                  |
+     |                  .
+     |                  .      
+     |
+     |____ Dynamic Gestures
+     |         |____ Dataset
+     |         |        |____ Dataset.csv
+     |         |
+     |         |____ Dynamic Gesture Dataset Description.pdf
+     |
+     |____ Static Gestures
+               |____ Dataset
+               |        |____ Dataset.csv
+               |
+               |____ Static Gesture Dataset Description.pdf
+
+The Dataset Description.pdf files contain all the information
+regarding the dataset and the .csv files contain the actual 
+data.
+
+Note: Please read the dataset description pdf files before 
+using the dataset.
+
+
+
+
+
+
