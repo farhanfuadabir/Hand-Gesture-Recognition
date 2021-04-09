@@ -1,5 +1,5 @@
 <p align="right">
-<img src="https://img.shields.io/github/license/farhanfuadabir/Sensor-Data-Glove">
+<img src="https://img.shields.io/github/license/farhanfuadabir/Hand-Gesture-Recognition_OLD">
 </p>
      
 # Hand-Gesture-Recognition
